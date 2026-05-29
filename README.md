@@ -26,7 +26,7 @@ The work was divided across three engineering areas — **front bodywork**, **fl
 
 | Member | Area of Responsibility |
 |---|---|
-| Wolfgang Guio Samaca | **Rear wing aerodynamics · Mesh independence study · CFD simulation execution · Final aero package integration ** |
+| Wolfgang Guio | **Rear wing aerodynamics · Mesh independence study · CFD simulation execution · Final aero package integration** |
 | Team Member 2 | Front bodywork — forebody lateral strakes  · CFD simulation execution |
 | Team Member 3 | Floor aerodynamics — splitter diffuser geometry and inclination  · CFD simulation execution |
 

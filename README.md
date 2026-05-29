@@ -26,9 +26,9 @@ The work was divided across three engineering areas — **front bodywork**, **fl
 
 | Member | Area of Responsibility |
 |---|---|
-| Wolfgang Guio Samaca | **Rear wing aerodynamics · Final aero package integration · Mesh independence study · CFD simulation execution** |
-| Team Member 2 | Front bodywork — forebody lateral strakes |
-| Team Member 3 | Floor aerodynamics — splitter diffuser geometry and inclination |
+| Wolfgang Guio Samaca | **Rear wing aerodynamics · Mesh independence study · CFD simulation execution · Final aero package integration ** |
+| Team Member 2 | Front bodywork — forebody lateral strakes  · CFD simulation execution |
+| Team Member 3 | Floor aerodynamics — splitter diffuser geometry and inclination  · CFD simulation execution |
 
 ---
 
@@ -238,7 +238,7 @@ Key findings:
 
 ## Experimental Validation Proposal
 
-An experimental campaign was proposed using the **8×6 wind tunnel at Cranfield University**, selected for its low turbulence intensity (< 0.1%) and closed test section suitable for the DrivAer model scale.
+An experimental campaign was proposed using the **8×6 wind tunnel**, selected for its low turbulence intensity (< 0.1%) and closed test section suitable for the DrivAer model scale.
 
 | Parameter | Configuration |
 |---|---|

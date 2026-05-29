@@ -316,7 +316,7 @@ simulation-files/
 
 ## About
 
-Completed as **Assessment 2 — CFD Coursework Report** for module **ENGR7006 Advanced Vehicle Aerodynamics**, Oxford Brookes University, Faculty of Technology, Design & Environment. Submitted December 2024. **Final grade: 65/100.**
+Completed as **Assessment 2 — CFD Coursework Report** for module **ENGR7006 Advanced Vehicle Aerodynamics**, Oxford Brookes University, Faculty of Technology, Design & Environment. Submitted December 2024.
 
 ---
 
